@@ -1,4 +1,3 @@
-# githubrepo
 import (
     "fmt"
 )
